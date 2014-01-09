@@ -2,6 +2,8 @@
 
 On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announced their next generation licenses: [Creative Commons 4.0](https://creativecommons.org/weblog/entry/40768). By default, these are available as [HTML](http://creativecommons.org/licenses/) or [plaintext](http://creativecommons.org/weblog/entry/41127). This project adds [Markdown](http://daringfireball.net/projects/markdown/)-formatted licenses to that list.
 
+Unfortunately, the output currently varies on different Markdown viewers, in particular when it comes to indentation levels. If you any suggestion on the formatting, feel invited to contribute.
+
 ## File extension
 
 *"We no longer live in a 8.3 world, so we should be using the most descriptive file extensions. It’s sad that all our operating systems rely on this stupid convention instead of the better creator code or a metadata model, but great that they now support longer file extensions."*  
