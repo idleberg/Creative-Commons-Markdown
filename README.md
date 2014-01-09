@@ -6,7 +6,13 @@ Unfortunately, the output currently varies on different Markdown viewers, in par
 
 ## Licenses
 
-* `BY` [Attribution 4.0 International](licenses/by.markdown)
+* `BY` [Attribution](licenses/by.markdown)
+* `BY-NC` [Attribution-NonCommercial](licenses/by-nc.markdown)
+* `BY-NC-ND` [Attribution-NonCommercial-NoDerivatives](licenses/by-nc-nd.markdown)
+* `BY-NC-SA` [Attribution-NonCommercial-ShareAlike](licenses/by-nc-sa.markdown)
+* `BY-ND` [Attribution-NoDerivatives](licenses/by-nd.markdown)
+* `BY-SA` [Attribution-ShareAlike](licenses/by-sa.markdown)
+* `C0` [CC0 1.0](licenses/zero.markdown)
 
 ## File extension
 
