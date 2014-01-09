@@ -12,7 +12,7 @@ Unfortunately, the output currently varies on different Markdown viewers, in par
 * `BY-NC-SA` [Attribution-NonCommercial-ShareAlike](licenses/by-nc-sa.markdown)
 * `BY-ND` [Attribution-NoDerivatives](licenses/by-nd.markdown)
 * `BY-SA` [Attribution-ShareAlike](licenses/by-sa.markdown)
-* `C0` [CC0 1.0](licenses/zero.markdown)
+* `C0` [CC0](licenses/zero.markdown)
 
 ## File extension
 
