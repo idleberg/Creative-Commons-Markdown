@@ -24,7 +24,7 @@ Hilton Lipschitz ([via](http://hiltmon.com/blog/2012/03/07/the-markdown-file-ext
 *"…the only file extension I would endorse is “.markdown”, for the same reason offered by Hilton Lipschitz"*  
 John Gruber, creator of Markdown ([via](http://daringfireball.net/linked/2014/01/08/markdown-extension))  
 
-Alas, it might seem ironic to you, that *this* file uses the `.md` extension.
+Alas, it might seem ironic to you that *this* file uses the `.md` extension.
 
 ## Contribute
 
