@@ -4,6 +4,10 @@ On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announce
 
 Unfortunately, the output currently varies on different Markdown viewers, in particular when it comes to indentation levels. If you any suggestion on the formatting, feel invited to contribute.
 
+## Licenses
+
+* `BY` [Attribution 4.0 International](licenses/by.markdown)
+
 ## File extension
 
 *"We no longer live in a 8.3 world, so we should be using the most descriptive file extensions. It’s sad that all our operating systems rely on this stupid convention instead of the better creator code or a metadata model, but great that they now support longer file extensions."*  
