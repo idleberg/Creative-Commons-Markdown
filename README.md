@@ -1,6 +1,6 @@
 # Creative Commons 4.0 Markdown Licenses
 
-All new [Creative Commons 4.0](http://creativecommons.org/licenses/) licenses formated as [Markdown](http://daringfireball.net/projects/markdown/)
+On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announced their next generation licenses: [Creative Commons 4.0](https://creativecommons.org/weblog/entry/40768). By default, these are available as [HTML](http://creativecommons.org/licenses/) or [plaintext](http://creativecommons.org/weblog/entry/41127). This project adds [Markdown](http://daringfireball.net/projects/markdown/)-formatted licenses to that list.
 
 ## File extension
 
@@ -10,7 +10,7 @@ Hilton Lipschitz ([via](http://hiltmon.com/blog/2012/03/07/the-markdown-file-ext
 *"…the only file extension I would endorse is “.markdown”, for the same reason offered by Hilton Lipschitz"*  
 John Gruber, creator of Markdown ([via](http://daringfireball.net/linked/2014/01/08/markdown-extension))  
 
-It might seem ironic to you, that *this* file uses the `.md` extension. Alas!
+Alas, it might seem ironic to you, that *this* file uses the `.md` extension.
 
 ## Contribute
 
