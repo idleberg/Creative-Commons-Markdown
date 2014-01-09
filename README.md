@@ -1,4 +1,4 @@
-# Creative Commons 4.0 Markdown Licenses
+# Creative Commons 4.0 Markdown
 
 On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announced their next generation licenses: [Creative Commons 4.0](https://creativecommons.org/weblog/entry/40768). By default, these are available as [HTML](http://creativecommons.org/licenses/) or [plaintext](http://creativecommons.org/weblog/entry/41127). This project adds [Markdown](http://daringfireball.net/projects/markdown/)-formatted licenses to that list.
 
