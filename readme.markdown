@@ -2,7 +2,9 @@
 
 On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announced their next generation licenses: [Creative Commons 4.0](https://creativecommons.org/weblog/entry/40768). By default, these are available as [HTML](http://creativecommons.org/licenses/) or [plaintext](http://creativecommons.org/weblog/entry/41127). This project adds [Markdown](http://daringfireball.net/projects/markdown/)-formatted licenses to that list.
 
-Unfortunately, the output currently varies on different Markdown viewers, in particular when it comes to indentation levels. If you any suggestion on the formatting, feel invited to contribute.
+Unfortunately, the output currently varies on different Markdown viewers, in particular when it comes to indentation levels. Version 0.1 uses tabs to indent text, which might cause some blocks to be interpreted as blocks (e.g. on GitHub); version 0.2 uses spaces, resulting in less readable files when viewed as plain text.
+
+If you any suggestion on the formatting, feel invited to contribute.
 
 ## Licenses
 
