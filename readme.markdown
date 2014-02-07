@@ -4,9 +4,9 @@ On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announce
 
 Unfortunately, the output currently varies on different Markdown viewers, in particular when it comes to indentation levels:
 
-* [v0.1](https://github.com/idleberg/Creative-Commons-4.0-Markdown/tree/0.1) uses tabs to indent text,  might cause some blocks to be interpreted as code (e.g. on GitHub)
+* [v0.1](https://github.com/idleberg/Creative-Commons-4.0-Markdown/tree/0.1/licenses) uses tabs to indent text,  might cause some blocks to be interpreted as code (e.g. on GitHub)
 
-* [v0.2](https://github.com/idleberg/Creative-Commons-4.0-Markdown/tree/0.1) uses spaces to indent text, results in less readable files when viewed as plain text
+* [v0.2](https://github.com/idleberg/Creative-Commons-4.0-Markdown/tree/0.2/licenses) uses spaces to indent text, results in less readable files when viewed as plain text
 
 If you any suggestion on the formatting, feel invited to contribute.
 
