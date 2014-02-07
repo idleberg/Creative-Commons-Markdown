@@ -98,7 +98,7 @@ a. ___Attribution.___
 
    iv. a notice that refers to the disclaimer of warranties;
 
- v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+   v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
 
   B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
 
