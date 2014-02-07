@@ -136,7 +136,6 @@ b. Where Your right to use the Licensed Material has terminated under Section 6(
 
 c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 
-
 d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
 ### Section 7 – Other Terms and Conditions.
