@@ -33,5 +33,3 @@ John Gruber, creator of Markdown ([via](http://daringfireball.net/linked/2014/01
 ## Contribute
 
 If you notice any mistakes in content or formatting, please send a pull request with your correction.
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/creative-commons-4.0-markdown/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
