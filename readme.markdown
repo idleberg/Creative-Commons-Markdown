@@ -11,13 +11,13 @@ Hopefully the [CommonMark](http://commonmark.org/) specification will sort out t
 
 ## Licenses
 
-* `BY` [Attribution](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/by.markdown)
-* `BY-NC` [Attribution-NonCommercial](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/by-nc.markdown)
-* `BY-NC-ND` [Attribution-NonCommercial-NoDerivatives](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/by-nc-nd.markdown)
-* `BY-NC-SA` [Attribution-NonCommercial-ShareAlike](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/by-nc-sa.markdown)
-* `BY-ND` [Attribution-NoDerivatives](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/by-nd.markdown)
-* `BY-SA` [Attribution-ShareAlike](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/by-sa.markdown)
-* `C0` [CC0](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/zero.markdown)
+* `BY` [Attribution](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/4.0/by.markdown)
+* `BY-NC` [Attribution-NonCommercial](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/4.0/by-nc.markdown)
+* `BY-NC-ND` [Attribution-NonCommercial-NoDerivatives](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/4.0/by-nc-nd.markdown)
+* `BY-NC-SA` [Attribution-NonCommercial-ShareAlike](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/4.0/by-nc-sa.markdown)
+* `BY-ND` [Attribution-NoDerivatives](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/4.0/by-nd.markdown)
+* `BY-SA` [Attribution-ShareAlike](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/4.0/by-sa.markdown)
+* `C0` [CC0](https://raw.githubusercontent.com/idleberg/Creative-Commons-Markdown/tabulators/4.0/zero.markdown)
 
 ## File extension
 
