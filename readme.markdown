@@ -4,8 +4,8 @@ On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announce
 
 Unfortunately, the output currently varies on different Markdown viewers, in particular when it comes to indentation levels. You can choose between these two branches:
 
-* [Tabulator indentation](https://github.com/idleberg/Creative-Commons-Markdown/tree/tabulators/4.0) might cause some blocks to be interpreted as code (e.g. on GitHub)
-* [Space indentation](https://github.com/idleberg/Creative-Commons-Markdown/tree/spaces/4.0) results in less readable files when viewed as plain text
+* [Tabulator indentation](https://github.com/idleberg/Creative-Commons-Markdown/tree/tabulators) might cause some blocks to be interpreted as code (e.g. on GitHub)
+* [Space indentation](https://github.com/idleberg/Creative-Commons-Markdown/tree/spaces) results in less readable files when viewed as plain text
 
 Hopefully the [CommonMark](http://commonmark.org/) specification will sort out these issues in the future.
 
