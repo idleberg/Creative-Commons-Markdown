@@ -1,0 +1,25 @@
+{
+  "name": "cc-md",
+  "version": "0.2.1",
+  "description": "Markdown-formatted Creative Commons licenses",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idleberg/Creative-Commons-Markdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "creative",
+    "commons",
+    "licenses",
+    "cc"
+  ],
+  "author": "idleberg",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/idleberg/Creative-Commons-Markdown/issues"
+  },
+  "homepage": "https://github.com/idleberg/Creative-Commons-Markdown#readme"
+}

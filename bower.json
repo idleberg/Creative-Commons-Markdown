@@ -1,0 +1,25 @@
+{
+  "name": "cc-md",
+  "version": "0.2.1",
+  "description": "Markdown-formatted Creative Commons licenses",
+  "authors": [
+    "idleberg"
+  ],
+  "license": "Unlicense",
+  "keywords": [
+    "markdown",
+    "creative",
+    "commons",
+    "licenses",
+    "cc"
+  ],
+  "homepage": "https://github.com/idleberg/Creative-Commons-Markdown",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "package.json",
+    "test",
+    "tests"
+  ]
+}
