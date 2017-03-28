@@ -1,13 +1,6 @@
 # Creative Commons Markdown
 
-On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announced their next generation licenses: [Creative Commons 4.0](https://creativecommons.org/weblog/entry/40768). By default, these are available as [HTML](http://creativecommons.org/licenses/) or [plaintext](http://creativecommons.org/weblog/entry/41127). This project adds [Markdown](http://daringfireball.net/projects/markdown/)-formatted licenses to that list.
-
-Unfortunately, the output currently varies on different Markdown viewers, in particular when it comes to indentation levels. You can choose between these two branches:
-
-* [Tabulator indentation](https://github.com/idleberg/Creative-Commons-Markdown/tree/tabulators) might cause some blocks to be interpreted as code (e.g. on GitHub)
-* [Space indentation](https://github.com/idleberg/Creative-Commons-Markdown/tree/spaces) results in less readable files when viewed as plain text
-
-Hopefully the [CommonMark](http://commonmark.org/) specification will sort out these issues in the future.
+On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announced their next generation licenses: [Creative Commons 4.0](https://creativecommons.org/weblog/entry/40768). By default, these are available as [HTML](http://creativecommons.org/licenses/) or [plaintext](http://creativecommons.org/weblog/entry/41127). This project adds [Markdown](http://daringfireball.net/projects/markdown/)-formatted licenses to that list.+, aiming for best compatibility on GitHub.
 
 ## Licenses
 
