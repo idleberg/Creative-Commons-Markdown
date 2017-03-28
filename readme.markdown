@@ -22,6 +22,15 @@ Hilton Lipschitz ([via](http://hiltmon.com/blog/2012/03/07/the-markdown-file-ext
 *"…the only file extension I would endorse is “.markdown”, for the same reason offered by Hilton Lipschitz"*  
 John Gruber, creator of Markdown ([via](http://daringfireball.net/linked/2014/01/08/markdown-extension))
 
+## Usage
+
+There are other ways to get the licenses than downloading the [latest release](https://github.com/idleberg/Creative-Commons-Markdown/releases/latest) in your browser:
+
+- Clone repository `git clone https://github.com/idleberg/Creative-Commons-Markdown cc-md`
+- Install with [Yarn](https://yarnpkg.com/en/) `yarn add cc-md`
+- Install with [npm](https://nodejs.org) `npm install cc-md`
+- Install with [Bower](https://bower.io) `bower install cc-md`
+
 ## Contribute
 
 If you notice any mistakes in content or formatting, please send a pull request with your correction.
