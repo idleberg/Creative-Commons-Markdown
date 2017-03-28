@@ -17,8 +17,9 @@
   "ignore": [
     "**/.*",
     ".npmignore",
-    "node_modules",
+    "bower.json",
     "bower_components",
+    "node_modules",
     "package.json",
     "test",
     "tests",
