@@ -25,3 +25,7 @@ John Gruber, creator of Markdown ([via](http://daringfireball.net/linked/2014/01
 ## Contribute
 
 If you notice any mistakes in content or formatting, please send a pull request with your correction.
+
+## Donate
+
+To show your appreciation, please consider buying me a cup of coffee. You can use [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Creative-Commons-Markdown) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`. Thanks!
