@@ -26,10 +26,19 @@ John Gruber, creator of Markdown ([via](http://daringfireball.net/linked/2014/01
 
 There are other ways to get the licenses than downloading the [latest release](https://github.com/idleberg/Creative-Commons-Markdown/releases/latest) in your browser:
 
-- Clone repository `git clone https://github.com/idleberg/Creative-Commons-Markdown cc-md`
-- Install with [Yarn](https://yarnpkg.com/en/) `yarn add cc-md`
-- Install with [npm](https://nodejs.org) `npm install cc-md`
-- Install with [Bower](https://bower.io) `bower install cc-md`
+```bash
+# Use git
+$ git clone https://github.com/idleberg/Creative-Commons-Markdown cc-md
+
+# Yarn
+$ yarn add cc-md
+
+# npm
+$ npm install cc-md
+
+# Bower
+$ bower install cc-md
+```
 
 ## Contribute
 
