@@ -16,10 +16,12 @@
   "homepage": "https://github.com/idleberg/Creative-Commons-Markdown",
   "ignore": [
     "**/.*",
+    ".npmignore",
     "node_modules",
     "bower_components",
     "package.json",
     "test",
-    "tests"
+    "tests",
+    "yarn.lock"
   ]
 }
