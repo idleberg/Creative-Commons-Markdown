@@ -2,9 +2,6 @@
   "name": "cc-md",
   "version": "0.2.1",
   "description": "Markdown-formatted Creative Commons licenses",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/idleberg/Creative-Commons-Markdown.git"
