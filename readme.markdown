@@ -26,6 +26,6 @@ John Gruber, creator of Markdown ([via](http://daringfireball.net/linked/2014/01
 
 If you notice any mistakes in content or formatting, please send a pull request with your correction.
 
-## Donate
+## Buy me coffee!
 
-To show your appreciation, please consider buying me a cup of coffee. You can use [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Creative-Commons-Markdown) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`. Thanks!
+I love a good cup of coffee, it's what drives me. Tips via [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Creative-Commons-Markdown) or Bitcoin (`17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`) are appreciated!
