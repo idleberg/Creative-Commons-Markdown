@@ -4,13 +4,13 @@ On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announce
 
 ## Licenses
 
-* `BY` [Attribution](https://github.com/idleberg/Creative-Commons-Markdown/blob/spaces/4.0/by.markdown)
-* `BY-NC` [Attribution-NonCommercial](https://github.com/idleberg/Creative-Commons-Markdown/blob/spaces/4.0/by-nc.markdown)
-* `BY-NC-ND` [Attribution-NonCommercial-NoDerivatives](https://github.com/idleberg/Creative-Commons-Markdown/blob/spaces/4.0/by-nc-nd.markdown)
-* `BY-NC-SA` [Attribution-NonCommercial-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/spaces/4.0/by-nc-sa.markdown)
-* `BY-ND` [Attribution-NoDerivatives](https://github.com/idleberg/Creative-Commons-Markdown/blob/spaces/4.0/by-nd.markdown)
-* `BY-SA` [Attribution-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/spaces/4.0/by-sa.markdown)
-* `C0` [CC0](https://github.com/idleberg/Creative-Commons-Markdown/blob/spaces/4.0/zero.markdown)
+* `BY` [Attribution](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by.markdown)
+* `BY-NC` [Attribution-NonCommercial](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc.markdown)
+* `BY-NC-ND` [Attribution-NonCommercial-NoDerivatives](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-nd.markdown)
+* `BY-NC-SA` [Attribution-NonCommercial-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-sa.markdown)
+* `BY-ND` [Attribution-NoDerivatives](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nd.markdown)
+* `BY-SA` [Attribution-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-sa.markdown)
+* `C0` [CC0](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/zero.markdown)
 
 ## File extension
 
