@@ -16,7 +16,7 @@ On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announce
 * `BY-NC-SA` – [Attribution-NonCommercial-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nc-sa.markdown)
 * `BY-ND` – [Attribution-NoDerivatives](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-nd.markdown)
 * `BY-SA` – [Attribution-ShareAlike](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/by-sa.markdown)
-* `C0` – [CC0](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/zero.markdown)
+* `CC0` – [CC0](https://github.com/idleberg/Creative-Commons-Markdown/blob/master/4.0/zero.markdown)
 
 ## File extension
 
