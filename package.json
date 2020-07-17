@@ -5,6 +5,7 @@
   "author": "idleberg",
   "license": "Unlicense",
   "scripts": {
+    "lint": "npm run test",
     "test": "remark -u lint ./4.0/*.markdown ./legacy/**/*.markdown"
   },
   "keywords": [
