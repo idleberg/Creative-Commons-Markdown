@@ -40,9 +40,6 @@ $ yarn add cc-md
 
 # npm
 $ npm install cc-md
-
-# Bower
-$ bower install cc-md
 ```
 
 ## Contribute
