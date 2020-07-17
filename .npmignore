@@ -1,3 +1,4 @@
+.circle-ci
 bower.json
 gulpfile.js
 yarn.lock
