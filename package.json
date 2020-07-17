@@ -23,7 +23,8 @@
     "url": "https://github.com/idleberg/Creative-Commons-Markdown/issues"
   },
   "homepage": "https://github.com/idleberg/Creative-Commons-Markdown#readme",
-  "dependencies": {
-    "remark-cli": "^8.0.1"
+  "devDependencies": {
+    "remark-cli": "^8.0.1",
+    "remark-preset-lint-recommended": "^4.0.1"
   }
 }
