@@ -38,7 +38,7 @@ j. __Share__ means to provide material to the public by any means or process tha
 
 k. __Sui Generis Database Rights__ means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
 
-l. __You__ means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+l. __You__ means the individual or entity exercising the Licensed Rights under this Public License. __Your__ has a corresponding meaning.
 
 ### Section 2 – Scope.
 
