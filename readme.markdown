@@ -46,7 +46,3 @@ $ npm install cc-md
 ## Contribute
 
 If you notice any mistakes in content or formatting, please send a pull request with your correction.
-
-## Coffee Tip
-
-I love a good cup of coffee, it's what drives me. Tip me via [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Creative-Commons-Markdown) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`.
