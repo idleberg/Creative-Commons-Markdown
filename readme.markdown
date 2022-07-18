@@ -36,9 +36,6 @@ There are other ways to get the licenses than downloading the [latest release](h
 # Use git
 $ git clone https://github.com/idleberg/Creative-Commons-Markdown cc-md
 
-# Yarn
-$ yarn add cc-md
-
 # npm
 $ npm install cc-md
 ```
