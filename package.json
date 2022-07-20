@@ -29,7 +29,12 @@
   },
   "homepage": "https://github.com/idleberg/Creative-Commons-Markdown#readme",
   "devDependencies": {
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
     "remark-cli": "^11.0.0",
     "remark-lint": "^9.1.1"
+  },
+  "lint-staged": {
+    "*.{md|markdown}": "remark -u lint"
   }
 }
