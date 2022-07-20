@@ -6,7 +6,8 @@
   "license": "Unlicense",
   "files": [
     "4.0/",
-    "legacy/"
+    "legacy/",
+    "readme.markdown"
   ],
   "scripts": {
     "lint": "npm run test",
