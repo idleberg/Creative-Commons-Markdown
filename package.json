@@ -6,7 +6,7 @@
   "license": "Unlicense",
   "files": [
     "4.0/",
-    "legacy/",
+    "legacy/"
   ],
   "scripts": {
     "lint": "npm run test",
