@@ -2,3 +2,7 @@ bower_components/
 node_modules/
 vendor/
 package-lock.json
+
+# temporay
+src/
+TODO.md
