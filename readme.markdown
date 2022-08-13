@@ -2,7 +2,8 @@
 
 [![npm](https://flat.badgen.net/npm/license/cc-md)](https://www.npmjs.org/package/cc-md)
 [![npm](https://flat.badgen.net/npm/v/cc-md)](https://www.npmjs.org/package/cc-md)
-[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/Creative-Commons-Markdown)](https://circleci.com/gh/idleberg/Creative-Commons-Markdown)
+[![CI](https://img.shields.io/github/workflow/status/idleberg/Creative-Commons-Markdown/CI?style=flat-square)](https://github.com/idleberg/Creative-Commons-Markdown/actions)
+
 
 On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announced their next generation licenses: [Creative Commons 4.0](https://creativecommons.org/weblog/entry/40768). By default, these are available as [HTML](http://creativecommons.org/licenses/) or [plaintext](http://creativecommons.org/weblog/entry/41127). This project adds [Markdown](http://daringfireball.net/projects/markdown/)-formatted licenses to that list, while aiming for best [compatibility on GitHub](https://github.github.com/gfm/).
 

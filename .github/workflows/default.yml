@@ -1,0 +1,38 @@
+name: CI
+
+on: [push]
+
+jobs:
+  default:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node-version: ['*', 'lts/*']
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 4
+
+    - uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Cache pnpm modules
+      uses: actions/cache@v2
+      with:
+        path: ~/.pnpm-store
+        key: ${{ runner.os }}-${{ hashFiles('**/pnpm-lock.yaml') }}
+        restore-keys: |
+          ${{ runner.os }}-
+
+    - uses: pnpm/action-setup@v2
+      with:
+        version: 6
+        run_install: |
+          - recursive: true
+          - args: [--frozen-lockfile, --strict-peer-dependencies]
+
+    - name: Run Tests
+      run: pnpm run test --if-present
