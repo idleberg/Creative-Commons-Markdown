@@ -16,7 +16,7 @@
   ],
   "scripts": {
     "lint": "npm run test",
-    "test": "remark -u lint ./4.0/*.markdown ./legacy/**/*.markdown"
+    "test": "remark -u lint ./**/*.markdown ./readme.markdown"
   },
   "keywords": [
     "markdown",
