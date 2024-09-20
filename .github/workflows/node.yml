@@ -58,7 +58,6 @@ jobs:
     - name: Install dependencies
       run: |
         pnpm install --frozen-lockfile --strict-peer-dependencies
-        pnpm install ${{ matrix.vite-version }}
 
-    - name: Run Tests
+    - name: Lint Markdown
       run: pnpm run --if-present test
