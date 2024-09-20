@@ -61,4 +61,4 @@ jobs:
         pnpm install ${{ matrix.vite-version }}
 
     - name: Run Tests
-      run: pnpm run test --if-present
+      run: pnpm run --if-present test
