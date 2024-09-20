@@ -1,6 +1,6 @@
 # Creative Commons Markdown
 
-[![License](https://img.shields.io/github/license/idleberg/Creative-Commons-Markdown?color=blue&style=for-the-badge)](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/cc-md?color=blue&style=for-the-badge)](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/LICENSE)
 [![Version: npm](https://img.shields.io/npm/v/cc-md?style=for-the-badge)](https://www.npmjs.org/package/cc-md)
 [![CI: Node](https://img.shields.io/github/actions/workflow/status/idleberg/Creative-Commons-Markdown/node.yml?logo=nodedotjs&logoColor=white&style=for-the-badge)](https://github.com/idleberg/Creative-Commons-Markdown/actions)
 
