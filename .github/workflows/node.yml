@@ -1,6 +1,27 @@
-name: CI
+name: 'Run tests on NodeJS'
 
-on: [push]
+on:
+  push:
+    paths:
+    - '.github/workflows/node.yml'
+    - '1.0/*'
+    - '2.0/*'
+    - '2.5/*'
+    - '3.0/*'
+    - '4.0/*'
+    - 'package.json'
+    - 'pnpm-lock.yaml'
+  pull_request:
+    paths:
+    - '.github/workflows/node.yml'
+    - '1.0/*'
+    - '2.0/*'
+    - '2.5/*'
+    - '3.0/*'
+    - '4.0/*'
+    - 'package.json'
+    - 'pnpm-lock.yaml'
+  workflow_dispatch:
 
 jobs:
   default:

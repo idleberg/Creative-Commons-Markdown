@@ -1,9 +1,8 @@
 # Creative Commons Markdown
 
-[![npm](https://flat.badgen.net/npm/license/cc-md)](https://www.npmjs.org/package/cc-md)
-[![npm](https://flat.badgen.net/npm/v/cc-md)](https://www.npmjs.org/package/cc-md)
-[![CI](https://img.shields.io/github/actions/workflow/status/idleberg/Creative-Commons-Markdown/default.yml?style=flat-square)](https://github.com/idleberg/Creative-Commons-Markdown/actions)
-
+[![License](https://img.shields.io/github/license/idleberg/Creative-Commons-Markdown?color=blue&style=for-the-badge)](https://github.com/idleberg/Creative-Commons-Markdown/blob/main/LICENSE)
+[![Version: npm](https://img.shields.io/npm/v/cc-md?style=for-the-badge)](https://www.npmjs.org/package/cc-md)
+[![CI: Node](https://img.shields.io/github/actions/workflow/status/idleberg/Creative-Commons-Markdown/node.yml?logo=nodedotjs&logoColor=white&style=for-the-badge)](https://github.com/idleberg/Creative-Commons-Markdown/actions)
 
 On November 25th, 2013, [Creative Commons](http://creativecommons.org/) announced their next generation licenses: [Creative Commons 4.0](https://creativecommons.org/weblog/entry/40768). By default, these are available as [HTML](http://creativecommons.org/licenses/) or [plaintext](http://creativecommons.org/weblog/entry/41127). This project adds [Markdown](http://daringfireball.net/projects/markdown/)-formatted licenses to that list, while aiming for best [compatibility on GitHub](https://github.github.com/gfm/).
 
